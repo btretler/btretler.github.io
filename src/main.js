@@ -19,7 +19,7 @@ function setup() {
       this.currentLanguage = current;
     },
     services: [
-      { url: '20028162201@go.webex.com', name: 'Clerk' },
+      { url: 'sip:brian.tretler@corebts.webex.com', name: 'Clerk' },
     ],
   });
 
