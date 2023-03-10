@@ -24,9 +24,9 @@ body {
   align-items: center;
   font-family: CiscoSansThin, arial;
   background-image: url('./images/gloucesterlogo.png');
-  background-position: 50% 20%;
+  background-position: 50% 10%;
   background-repeat: no-repeat;
-  background-size: 480px auto;
+  background-size: 360px auto;
   background-color: #004382;
   color: white;
   font-size: 36px;
