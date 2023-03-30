@@ -19,7 +19,8 @@ function setup() {
       this.currentLanguage = current;
     },
     services: [
-      { url: 'sip:brian.tretler@corebts.webex.com', name: 'Clerk' },
+      { url: 'sip:webexuser@countyofgloucester.calls.webex.com', name: 'Clerk' },
+      // 'sip:brian.tretler@corebts.webex.com'
     ],
   });
 
